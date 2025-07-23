@@ -75,3 +75,27 @@ public class gradeBook {
 
     }
 }
+
+
+OUTPUT
+Student Averages: O(n)
+Alok - Average: 46.33
+Time taken: 15392599 ns
+Time Complexity: O(n) -> n = number of grades
+
+Vinay - Average: 47.33
+Time taken: 44101 ns
+Time Complexity: O(n) -> n = number of grades
+
+Ravi - Average: 39.33
+Time taken: 26501 ns
+Time Complexity: O(n) -> n = number of grades
+
+Display all Students: O(n)
+The Student Names and grades are as follows 
+Student: vinay, Grades: [42, 50, 50]
+Student: ravi, Grades: [37, 36, 45]
+Student: alok, Grades: [45, 44, 50]
+
+Time taken: 2407900 ns
+Time Complexity: O(m) -> n = number of students
